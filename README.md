@@ -40,9 +40,10 @@ Code: '3_teamtabs_googlenet_training_final.py’
 References:
 [1] Going deeper with convolutions. Szegedy, Christian, et al.
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf
+
 [2] Keras implementation: https://gist.github.com/joelouismarino/a2ede9ab3928f999575423b9887abd14
 
-### Making Predictions using the two models
+### Make predictions using the two models
 
 Codes: '4_teamtabs_vgg_predict_final.py' & '5_teamtabs_googlenet_predict_final.py'
 * We apply data augmentation to the test images and take average prediction to get the final label.
