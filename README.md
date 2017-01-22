@@ -1,7 +1,7 @@
 # DSG-2016
 
-This repo contains all the code for Data Science Game 2016 Preliminary Challenge
-https://inclass.kaggle.com/c/data-science-game-2016-online-selection
+This repo contains all the code for [Data Science Game 2016] (http://www.datasciencegame.com/) Qualifying Challenge on [Kaggle]
+(https://inclass.kaggle.com/c/data-science-game-2016-online-selection)
 
 Problem Description: Given a dataset of satellite images of roofs, the task was to predict the orientation of the roofs into 4 different categories- North-South, East-West, Flat or Other
 
