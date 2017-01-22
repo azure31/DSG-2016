@@ -52,7 +52,7 @@ Codes: '4_teamtabs_vgg_predict_final.py' & '5_teamtabs_googlenet_predict_final.p
 
 Code: '6_teamtabs_ensembles_final.r'
  
-Ensembles are created by averaging the class-probabilities obtained from various models as follows:
+Ensembles are created by averaging the class-probabilities obtained from various models as follows: ![ensemble](https://github.com/azure31/DSG-2016/blob/master/ensemble.PNG)
 
 
 
